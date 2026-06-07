@@ -1,4 +1,4 @@
-# 🛒 E-commerce Sales Analysis — SQL Portfolio Project
+# 🛒 E-commerce Sales Analysis 
 
 A beginner-to-intermediate SQL project that models a real-world e-commerce database and answers key business questions through data analysis queries.
 
